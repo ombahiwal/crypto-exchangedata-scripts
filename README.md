@@ -80,5 +80,5 @@ python script.py --j2x
 
 
 ######  "Thanks"
-*written for A.O.*
-Author : Omkar B
+######  *written for A.O.*
+###### Author : Omkar B
