@@ -3,6 +3,7 @@
 
 - Binance v3
 - Kucoin v1
+- Uniswap v2 (GraphQL)
 
 ##### Features
 
